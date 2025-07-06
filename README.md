@@ -10,12 +10,6 @@ Lo cree para probar el tailwind y terminar esta tarea xd.
 - Formulario de contacto
 - Diseño completamente responsivo para móviles y escritorio
 
-##  ecnologías usadas
-
-- HTML5
-- Tailwind CSS
-- Git + GitHub
-
 ## Captura de pantalla
 
 ![alt text](image.png)
