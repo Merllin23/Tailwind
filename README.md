@@ -1,6 +1,6 @@
 # Página Web Responsiva con Tailwind CSS
 
-Este proyecto fue creado como parte de una práctica para construir una página web moderna y responsiva usando Tailwind CSS.
+Lo cree para probar el tailwind y terminar esta tarea xd.
 
 ## Características
 
