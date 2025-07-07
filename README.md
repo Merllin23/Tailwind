@@ -16,11 +16,11 @@ primero que nada mi secuencia fue algo asi:
    ```
   Porque el css asi? eso es para llamar e insertar los estilos de Tailwind, el base para los diseños basicos el otro de componentes sea contenedores botones.  Y el ultimo para utilidades sea los bg-slate-800 entre otros, esta ultima es importante
   ya que tailwind trabaja con full utilidades.
-6. al momento ya de ejecucion se necesita crear el output.css que sera de donde se creara todo el css con responsivida y todo para nuestro html, lo creamos con "npx tailwindcss -i ./styles.css -o ./output.css --watch"
+6. al momento ya de ejecucion se necesita crear el output.css que sera de donde se creara todo el css con responsivida y todo para nuestro html, lo creamos con ```css npx tailwindcss -i ./styles.css -o ./output.css --watch ```
 
 ## Cuando lo importes dentro de tu VSC
 
-Solamente necesitas dar un "npm install -D tailwindcss@3.3.5" para que descargue la carpeta node_modules que leera los otros paquetes del repositorio.
+Solamente necesitas dar un ```css npm install -D tailwindcss@3.3.5 ``` para que descargue la carpeta node_modules que leera los otros paquetes del repositorio.
 
 ## Características
 
