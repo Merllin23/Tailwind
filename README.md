@@ -2,6 +2,10 @@
 
 Lo cree para probar el tailwind y terminar esta tarea xd.
 
+## Cuando lo importes dentro de tu VSC
+
+Solamente necesitas dar un "npm install" para que descargue la carpeta node_modules que leera los otros paquetes del repositorio.
+
 ## Características
 
 - Barra de navegación
