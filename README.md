@@ -18,4 +18,12 @@ Solamente necesitas dar un "npm install" para que descargue la carpeta node_modu
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
+## Responsividad
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 
