@@ -6,8 +6,8 @@ Lo cree para probar el tailwind y terminar esta tarea xd.
 
 primero que nada mi secuencia fue algo asi:
 1. abrir cmd en VSC y dirigirme a mi archivo(cd ejemplo)
-2. colocar ahi este codigo "npm install -D tailwindcss@3.3.5" (porque en esa version? porque esa almenos fue en la que me funciono y no me dio errores) eso me creara package.jason package-lock.json ademas del node_modules
-3. ahora para crear mi tailwind.config.js que es donde le diremos a tailwind donde aplicar los estilos, esto lo creamos con ```cssnpx tailwindcss init```
+2. colocar ahi este codigo ```css npm install -D tailwindcss@3.3.5 ``` (porque en esa version? porque esa almenos fue en la que me funciono y no me dio errores) eso me creara package.jason package-lock.json ademas del node_modules
+3. ahora para crear mi tailwind.config.js que es donde le diremos a tailwind donde aplicar los estilos, esto lo creamos con ```css npx tailwindcss init ```
 4. crear un .html y un .css, el html a lo que me gusto con sus clases que seran el estilo que tendra, y el css simplemente con un:
    ```css
    @tailwind base;
