@@ -20,7 +20,7 @@ primero que nada mi secuencia fue algo asi:
 
 ## Cuando lo importes dentro de tu VSC
 
-Solamente necesitas dar un ```css npm install -D tailwindcss@3.3.5 ``` para que descargue la carpeta node_modules que leera los otros paquetes del repositorio.
+Solamente necesitas dar un ```css npm install -D tailwindcss@3.3.5 ``` para que descargue la carpeta node_modules que leera los otros paquetes del repositorio y asi se podra seguir trabajando en otro dispositivo.
 
 ## Características
 
